@@ -1,0 +1,33 @@
+h1 {
+    font-size:xx-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+
+h2 {
+    font-size:x-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:#054FB9;
+}
+
+h3 {
+    font-size:large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:#0461CF;
+}
+
+p {
+    line-height: 1.5;
+}
+
+img {
+    border: 5px solid #0073E6;
+    padding: 10px;
+    margin: 20px;
+    border-top-right-radius: 30px;
+}
+
+li {
+    display: inline-block;
+    margin-left: 50px;
+}
